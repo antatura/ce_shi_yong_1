@@ -16,3 +16,14 @@ for /f %%i in ('dir /b *.txt') do (ren %%i A%%i)
 
 @ esrbt
 
+```
+aertb eryb
+easrbtse5nby
+
+sertynrtn
+
+```
+
+
+
+ewrst b5e
