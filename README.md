@@ -1,5 +1,13 @@
 ### se5rybtt5rbysdrty
 
+##FFmoeg
+*【上的认同】
+
+`ffmpeg -i a.mp4 -crf 23 -preset 6 c23p6`
+
+
+
+
 
 servtse5bt
 - [x] Pick the flowers
