@@ -31,8 +31,6 @@ easrbtse5nby
 sertynrtn
 
 
-```
-
     int x = 23;
     for (i = 0; i <= 6; i++)
         if (i*i == x)
