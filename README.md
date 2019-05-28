@@ -11,12 +11,22 @@
 ffmpeg -i a.mp4 -crf 23 -preset 6 c23p7
 ```
 
-HTML块内的markdown标记
+HTML块内的markdown标记  
 
-具有id / class属性的元素
+具有id / class属性的元素  
 
 围栏代码块  
-Markdown添加了以下功能
+Markdown添加了以下功能  
+打不动人特别
+
+**粗体**  
+_斜体_  
+__也是粗体__  
+_**输入法**_
+
+
+---
+![gggggggggg](https://raw.githusercontent.com/nagadomi/waifu2x/master/images/slide.png)
 
 * 微软v他射入v他
 ```
