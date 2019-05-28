@@ -1,7 +1,7 @@
 ### se5rybtt5rbysdrty
 
-##FFmoeg
-*【上的认同】
+## FFmoeg
+* 色让他不要
 
 `ffmpeg -i a.mp4 -crf 23 -preset 6 c23p6`
 
