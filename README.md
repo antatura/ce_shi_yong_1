@@ -5,10 +5,10 @@
 
 `ffmpeg -i a.mp4 -crf 23 -preset 6 c23p6`
 
-
-
-
-
+* 而特人的头部有有
+```
+ffmpeg -i a.mp4 -crf 23 -preset 6 c23p7
+```
 servtse5bt
 - [x] Pick the flowers
 - [ ] Call John 9303032332
