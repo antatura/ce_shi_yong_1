@@ -9,6 +9,9 @@ ffmpeg -i a.mp4 -crf 23 -preset 6 c23p7
 
 g
 
+uuuuu
+
+
 * 微软v他射入v他
 ```
 ffmpeg -i a.mp4 -ss 01:26:35 -to 01:29:55.200 -c copy c.mp4
