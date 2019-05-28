@@ -16,3 +16,6 @@ https://play.google.com/store/apps/details?id=cc.dingnet.yunfangp<br />
 
 ##### ios & Mac
 待补充
+https://github.com/antatura/se5rybtt5rbysdrty
+
+https://www.zhihu.com/question/28534197
