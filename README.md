@@ -9,3 +9,4 @@ servtse5bt
 
 for /f %%i in ('dir /b *.txt') do (ren %%i A%%i)
 
+[sretvse](https://www.zhihu.com/question/28534197)
