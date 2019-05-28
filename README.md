@@ -1,14 +1,17 @@
 # se5rybtt5rbysdrty
 
-## FFmoeg
-* 色让他不要
-
-`ffmpeg -i a.mp4 -crf 23 -preset 6 c23p6`
+## FFmpeg  
 
 * 而特人的头部有有
 ```
 ffmpeg -i a.mp4 -crf 23 -preset 6 c23p7
 ```
+
+* 微软v他射入v他
+```
+ffmpeg -i a.mp4 -ss 01:26:35 -to 01:29:55.200 -c copy c.mp4
+```
+
 servtse5bt
 - [x] Pick the flowers
 - [ ] Call John 9303032332
@@ -23,65 +26,6 @@ jujjjj
 * waertb4
 
 @ esrbt
-
-```
-aertb eryb
-easrbtse5nby
-
-sertynrtn
-
-
-    int x = 23;
-    for (i = 0; i <= 6; i++)
-        if (i*i == x)
-            continue;
-       
-        DoSomething();
-   
-
-```
-
-```
-
-void Test() {
-    int x = 23;
-    for (i = 0; i <= 6; i++) {
-        if (i*i == x) {
-            continue;
-        }
-        DoSomething();
-    }
-
-```
-
-
-rdtn
-
-```
-void Test() {
-    int x = 23;
-    for (i = 0; i <= 6; i++) {
-        if (i*i == x) {
-            continue;
-        }
-        DoSomething();
-    }
-}
-```
-
-```
-void Test() {
-    int x = 23;
-    for (i = 0; i <= 6; i++) {
-        if (i*i == x) {
-            continue;
-        }
-        DoSomething();
-    }
-}
-```
-
-体育你<br/>
 
 
 
