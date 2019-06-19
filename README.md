@@ -22,8 +22,8 @@ Markdown添加了以下功能
 **粗体**  
 _斜体_  
 __也是粗体__  
-_**输入法**_
-
+_**输入法**_  
+iu饿死然后TV从
 
 ---
 ![gggggggggg](https://raw.githusercontent.com/nagadomi/waifu2x/master/images/slide.png)
